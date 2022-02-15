@@ -1,0 +1,46 @@
+
+{python:S116"XRename this field "previousLocation" to match the regular expression ^[_a-z][_a-z0-9]*$.(é¥¬ğÿÿÿÿÿ8óë¯›ï/
+wpython:S116"TRename this field "currentScore" to match the regular expression ^[_a-z][_a-z0-9]*$.(Õ£óèúÿÿÿÿ8ôë¯›ï/
+upython:S117"WRename this parameter "currentData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÔ“8ôë¯›ï/
+jpython:S100"LRename method "getItems" to match the regular expression ^[a-z_][a-z0-9_]*$.(êš€›8ôë¯›ï/
+vpython:S100"SRename method "getNearbyCities" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚íâàøÿÿÿÿ8õë¯›ï/
+lpython:S100""ORename method "getDistance" to match the regular expression ^[a-z_][a-z0-9_]*$.(Èá‰8õë¯›ï/
+rpython:S100%"ORename method "setDistance" to match the regular expression ^[a-z_][a-z0-9_]*$.(õÈóşûÿÿÿÿ8õë¯›ï/
+spython:S100("PRename method "newNeighbors" to match the regular expression ^[a-z_][a-z0-9_]*$.(¨ª§Úşÿÿÿÿ8öë¯›ï/
+|python:S117-"YRename this local variable "radValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú‡¦ıÿÿÿÿ8öë¯›ï/
+qpython:S1542,"RRename function "ConvertToRad" to match the regular expression ^[a-z_][a-z0-9_]*$.(…ÿå¯8öë¯›ï/
+vpython:S15420"RRename function "LineDistance" to match the regular expression ^[a-z_][a-z0-9_]*$.(»À‘ñøÿÿÿÿ8÷ë¯›ï/
+ppython:S1178"SRename this parameter "EndCity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÊëâK8÷ë¯›ï/
+rpython:S1178"URename this parameter "StartCity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÊëâK8÷ë¯›ï/
+vpython:S117G"YRename this local variable "cityDist" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñü’w8÷ë¯›ï/
+xpython:S117N"ZRename this local variable "cityDist2" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê°Š©8øë¯›ï/
+vpython:S15428"XRename function "cityDistancesToEnd" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÊëâK8øë¯›ï/
+spython:S117W"URename this parameter "StartCity" to match the regular expression ^[_a-z][a-z0-9_]*$.(³¾û8øë¯›ï/
+python:S117m"\Rename this local variable "currentCity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïû”°ûÿÿÿÿ8ùë¯›ï/
+xpython:S117h"URename this local variable "mapQ" to match the regular expression ^[_a-z][a-z0-9_]*$.(±Û“Ÿúÿÿÿÿ8ùë¯›ï/
+python:S117e"aRename this local variable "previousLocation" to match the regular expression ^[_a-z][a-z0-9_]*$.(×„÷œ8ùë¯›ï/
+}python:S117b"ZRename this local variable "startDist" to match the regular expression ^[_a-z][a-z0-9_]*$.(£àñãşÿÿÿÿ8ùë¯›ï/
+qpython:S1542W"RRename function "bestDistance" to match the regular expression ^[a-z_][a-z0-9_]*$.(³¾û8ùë¯›ï/
+Qpython:S1481b"-Remove the unused local variable "startDist".(£àñãşÿÿÿÿ8ùë¯›ï/
+Npython:S1481‰"/Remove the unused local variable "astar_score".(ñŸËs8úë¯›ï/
+Bpython:S125f"Remove this commented out code.(Ÿëƒ•şÿÿÿÿ8úë¯›ï/
+Bpython:S125o"Remove this commented out code.(¿§‘üıÿÿÿÿ8úë¯›ï/
+=python:S125x"Remove this commented out code.(•§ôÁ8úë¯›ï/
+Cpython:S125ƒ"Remove this commented out code.(—€å úÿÿÿÿ8úë¯›ï/
+|python:S117“"XRename this local variable "EndCity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒªâÇúÿÿÿÿ8ûë¯›ï/
+~python:S117“"ZRename this local variable "StartCity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒªâÇúÿÿÿÿ8ûë¯›ï/
+~python:S117¼"ZRename this local variable "cityPivot" to match the regular expression ^[_a-z][a-z0-9_]*$.(úƒÿùúÿÿÿÿ8ûë¯›ï/
+wpython:S117Ì"XRename this local variable "mapCity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÇ¿¼8üë¯›ï/
+zpython:S117Ğ"VRename this local variable "nCity" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù˜¯‹ÿÿÿÿÿ8üë¯›ï/
+vpython:S117Ù"WRename this local variable "nCity2" to match the regular expression ^[_a-z][a-z0-9_]*$.(•Õñ‡8üë¯›ï/
+}python:S117Î"YRename this local variable "nearCity" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì¿ßßıÿÿÿÿ8üë¯›ï/
+}python:S117®"YRename this local variable "nodeKeys" to match the regular expression ^[_a-z][a-z0-9_]*$.(Š…ãïøÿÿÿÿ8üë¯›ï/
+xpython:S117¿"YRename this local variable "pivotEnd" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª¸¿Ç8ıë¯›ï/
+{python:S117 "WRename this local variable "radLat" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÔ¿ıÿÿÿÿ8ıë¯›ï/
+|python:S117¡"XRename this local variable "radLong" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğ–¢üÿÿÿÿ8ıë¯›ï/
+rpython:S1542Œ"RRename function "ProgramInput" to match the regular expression ^[a-z_][a-z0-9_]*$.(¶È‰„8şë¯›ï/
+Rpython:S1481¼"-Remove the unused local variable "cityPivot".(úƒÿùúÿÿÿÿ8şë¯›ï/
+Lpython:S1481¿",Remove the unused local variable "pivotEnd".(ª¸¿Ç8şë¯›ï/
+>python:S125›"Remove this commented out code.(ÇÌ¢ë8şë¯›ï/
+>python:S125£"Remove this commented out code.(¡õÂ¯8ÿë¯›ï/
+>python:S125Á"Remove this commented out code.(Ş™İ8ÿë¯›ï/
