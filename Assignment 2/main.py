@@ -3,20 +3,24 @@ from board import Board
 
 myboard = Board(5)
 showboard = myboard.show_map()
-print(showboard)
-print()
+# print(showboard)
+# print()
 
 # Begin hill climb
 
 # Set a random start point
+# look for queens per row
 def RandStart(nBoard):
     r = random.seed()
     for i in nBoard:
         for j in nBoard[0]:
             print(f'i is {i}')
-            print(f'j is {j}')
+            # print(f'j is {j}')
 
-print(myboard.get_fitness())
+# print(myboard.get_fitness())
+
+RandStart(myboard)
+
 
 # Using get_fitness to tell if a state is more optimal than the other
 
