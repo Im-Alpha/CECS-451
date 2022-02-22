@@ -24,6 +24,9 @@ class Board:
                             fit += 1
         return fit
 
+    def get_map(self):
+        return self.map
+
     def show_map(self):
         print(np.matrix(self.map))
 
