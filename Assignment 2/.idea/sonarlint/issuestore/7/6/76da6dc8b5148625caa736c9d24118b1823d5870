@@ -1,0 +1,18 @@
+
+upython:S117"XRename this local variable "childM1" to match the regular expression ^[_a-z][a-z0-9_]*$.(—‘¹W8–óÍ›ó/
+upython:S117"XRename this local variable "childM2" to match the regular expression ^[_a-z][a-z0-9_]*$.(—‘¹W8–óÍ›ó/
+|python:S117"YRename this local variable "genePool" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÙü‹ÿÿÿÿÿ8—óÍ›ó/
+€python:S117"]Rename this local variable "parent1Cross" to match the regular expression ^[_a-z][a-z0-9_]*$.(²ºÍßýÿÿÿÿ8—óÍ›ó/
+€python:S117"]Rename this local variable "parent2Cross" to match the regular expression ^[_a-z][a-z0-9_]*$.(²ºÍßýÿÿÿÿ8—óÍ›ó/
+ppython:S1542
+"RRename function "geneSolution" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰£â8˜óÍ›ó/
+|python:S1171"YRename this local variable "firstFit" to match the regular expression ^[_a-z][a-z0-9_]*$.(ý¹†¼ýÿÿÿÿ8™óÍ›ó/
+rpython:S117/"TRename this parameter "genePool" to match the regular expression ^[_a-z][a-z0-9_]*$.(èð÷î8™óÍ›ó/
+}python:S1172"ZRename this local variable "secondFit" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸèÂ×ûÿÿÿÿ8šóÍ›ó/
+{python:S117>"XRename this local variable "tempFit" to match the regular expression ^[_a-z][a-z0-9_]*$.(“Åò¦ùÿÿÿÿ8šóÍ›ó/
+=python:S125C"Remove this commented out code.(˜™ßž8šóÍ›ó/
+Bpython:S125N"Remove this commented out code.(±‡ ‰üÿÿÿÿ8šóÍ›ó/
+=python:S125`"Remove this commented out code.(èð›Ó8›óÍ›ó/
+xpython:S3776q"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(‚ŽóÊûÿÿÿÿ8œóÍ›ó/
+=python:S125u"Remove this commented out code.(¡½§ê8œóÍ›ó/
+\python:S5754¥"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8óÍ›ó/
